@@ -8,22 +8,39 @@
 Opcode(4 bits)     Register address (3 bits)     Mem loc address (9 bits)
 
 # Instruction set
+
 Opcode  Operation 
+
 0000         LOAD
-0001         Store                     
-0010         Add              
+
+0001         Store   
+
+0010         Add      
+
 0011         Subtract
+
 0100         Multiply 
-0101         Divide   
-0110         Increment           
+
+0101         Divide  
+
+0110         Increment   
+
 0111         Decrement 
-1000         And                  
-1001         Or       
-1010         Not          
+
+1000         And   
+
+1001         Or     
+
+1010         Not    
+
 1011         Exchange    
-1100         Shift Right            
-1101         Shift Left            
-1110         Rotate right       
+
+1100         Shift Right  
+
+1101         Shift Left     
+
+1110         Rotate right     
+
 1111         Rotate left
 
 # References 
