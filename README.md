@@ -1,7 +1,8 @@
 # mu0 Processor Simulation 
 
 # Circuit
-<img width="1386" alt="Screenshot 2023-05-12 at 11 54 22 PM" src="https://github.com/sai14karthik/mu0/assets/110590614/73d96a23-3f61-48de-8f8a-79281f35bdaf">
+<img width="1322" alt="Screenshot 2023-05-13 at 10 08 41 AM" src="https://github.com/sai14karthik/mu0/assets/110590614/2551c456-3c06-4a2a-8702-76ac18cad68e">
+
 
 
 # References 
