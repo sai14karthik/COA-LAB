@@ -4,7 +4,7 @@
 <img width="1322" alt="Screenshot 2023-05-13 at 10 08 41 AM" src="https://github.com/sai14karthik/mu0/assets/110590614/2551c456-3c06-4a2a-8702-76ac18cad68e">
 
 
-# Instruction Register Format::
+# Instruction Register Format:
 Opcode(4 bits)     Register address (3 bits)     Mem loc address (9 bits)
 
 # Instruction set
