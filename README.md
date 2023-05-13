@@ -51,6 +51,7 @@ Opcode  Operation
 # References 
 
 Steve Furber Book(ARM System-on-chip Architecture)
+https://www.ele.uva.es/~jesman/BigSeti/ftp/Microcontroladores/ARM/Arm%20System-On-Chip%20Architecture.pdf
 
 https://www.google.co.in/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwj2obLfvvD-AhWSbGwGHQQ5Bf0QFnoECBoQAw&url=http%3A%2F%2Fusers.cecs.anu.edu.au%2F~Gerard.Borg%2Fpublic%2Fclab4.pdf&usg=AOvVaw2W9gM1-s-KoPEZqpNR-Ero
 
