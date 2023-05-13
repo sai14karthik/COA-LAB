@@ -1,7 +1,8 @@
 # mu0 Processor Simulation 
 Created using logism software
 # Credits 
-https://www.youtube.com/@santoshreddy5216 (Youtube Channel )
+This mu0 processor is created by watching this YouTube channel
+https://www.youtube.com/@santoshreddy5216
 # Demostration of circuit (from Original Creator)
 https://youtu.be/_roX9a4HiFQ 
 # Circuit
