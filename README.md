@@ -1,5 +1,9 @@
 # mu0 Processor Simulation 
-
+Created using logism software
+# Credits 
+https://www.youtube.com/@santoshreddy5216 (Youtube Channel )
+# Demostration of circuit (from Original Creator)
+https://youtu.be/_roX9a4HiFQ 
 # Circuit
 <img width="1322" alt="Screenshot 2023-05-13 at 10 08 41 AM" src="https://github.com/sai14karthik/mu0/assets/110590614/2551c456-3c06-4a2a-8702-76ac18cad68e">
 
